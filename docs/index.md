@@ -91,5 +91,3 @@ Wiring is split into short steps under [Wire and validate](03-wire/index.md). Th
 </div>
 
 The whole firmware is one file: [`firmware/lux.yaml`](https://github.com/jajera/esp32-c3-ha-lux/blob/main/firmware/lux.yaml).
-
-<!-- ci: pages retrigger configure -->
