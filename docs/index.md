@@ -80,7 +80,7 @@ Wiring is split into short steps under [Wire and validate](03-wire/index.md). Th
 
     Breadboard, VEML7700, LED, display, then a check.
 
-- :lucide-zap: **4. Flash the ESP32**
+- :lucide-zap: **4. [Flash the ESP32](04-flash-esp32.md)**
 
     Upload over USB and watch it boot.
 
@@ -92,4 +92,4 @@ Wiring is split into short steps under [Wire and validate](03-wire/index.md). Th
 
 The whole firmware is one file: [`firmware/lux.yaml`](https://github.com/jajera/esp32-c3-ha-lux/blob/main/firmware/lux.yaml).
 
-<!-- ci: pages retrigger -->
+<!-- ci: pages retrigger flash -->
