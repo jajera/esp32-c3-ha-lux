@@ -4,6 +4,16 @@ site_description = "ESP32-C3 lux sensor and binary LED light for Home Assistant 
 site_url = "https://esp32-c3-ha-lux.johna.kiwi/"
 nav = [
   { "Overview" = "index.md" },
+  { "1. Walk through the code" = [
+    "01-walkthrough/index.md",
+    { "ESP32" = "01-walkthrough/board.md" },
+    { "Home Assistant" = "01-walkthrough/home-assistant.md" },
+    { "Wi‑Fi setup" = "01-walkthrough/wifi.md" },
+    { "Lux and LED" = "01-walkthrough/lux-led.md" },
+    { "Modes" = "01-walkthrough/modes.md" },
+    { "Display" = "01-walkthrough/display.md" },
+    { "Factory reset" = "01-walkthrough/reset.md" },
+  ]},
 ]
 
 [project.theme]
