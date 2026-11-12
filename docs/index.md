@@ -62,7 +62,7 @@ flowchart LR
 | :lucide-usb: | USB **data** cable | Charge-only cables won't work |
 | :brands-ubuntu:{ .lg .middle } | A computer running Ubuntu 24.04 | Builds and flashes the firmware |
 
-Wiring is split into short steps under Wire and validate. The full pin map is on Validate.
+Wiring is split into short steps under [Wire and validate](03-wire/index.md). The full pin map is on [Validate](03-wire/validate.md).
 
 ## Tutorial
 
@@ -76,7 +76,7 @@ Wiring is split into short steps under Wire and validate. The full pin map is on
 
     Install ESPHome and compile.
 
-- :lucide-cable: **3. Wire and validate**
+- :lucide-cable: **3. [Wire and validate](03-wire/index.md)**
 
     Breadboard, VEML7700, LED, display, then a check.
 
