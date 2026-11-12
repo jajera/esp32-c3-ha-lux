@@ -84,7 +84,7 @@ Wiring is split into short steps under [Wire and validate](03-wire/index.md). Th
 
     Upload over USB and watch it boot.
 
-- :brands-home-assistant:{ .lg .middle } **5. Configure and test**
+- :brands-home-assistant:{ .lg .middle } **5. [Configure and test](05-configure-and-test.md)**
 
     Join Wi‑Fi, add to Home Assistant, try the modes and reset.
 
@@ -92,4 +92,4 @@ Wiring is split into short steps under [Wire and validate](03-wire/index.md). Th
 
 The whole firmware is one file: [`firmware/lux.yaml`](https://github.com/jajera/esp32-c3-ha-lux/blob/main/firmware/lux.yaml).
 
-<!-- ci: pages retrigger flash -->
+<!-- ci: pages retrigger configure -->
