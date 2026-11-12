@@ -80,7 +80,7 @@ Wiring is split into short steps under [Wire and validate](03-wire/index.md). Th
 
     Breadboard, VEML7700, LED, display, then a check.
 
-- :lucide-zap: **4. Flash the ESP32**
+- :lucide-zap: **4. [Flash the ESP32](04-flash-esp32.md)**
 
     Upload over USB and watch it boot.
 
