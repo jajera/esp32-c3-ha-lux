@@ -68,7 +68,7 @@ Wiring is split into short steps under Wire and validate. The full pin map is on
 
 <div class="grid cards" markdown>
 
-- :lucide-file-code: **1. Walk through the code**
+- :lucide-file-code: **1. [Walk through the code](01-walkthrough/index.md)**
 
     What each block of the firmware does.
 
