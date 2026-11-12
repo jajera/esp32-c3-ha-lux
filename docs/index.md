@@ -84,7 +84,7 @@ Wiring is split into short steps under [Wire and validate](03-wire/index.md). Th
 
     Upload over USB and watch it boot.
 
-- :brands-home-assistant:{ .lg .middle } **5. Configure and test**
+- :brands-home-assistant:{ .lg .middle } **5. [Configure and test](05-configure-and-test.md)**
 
     Join Wi‑Fi, add to Home Assistant, try the modes and reset.
 
