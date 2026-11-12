@@ -72,7 +72,7 @@ Wiring is split into short steps under Wire and validate. The full pin map is on
 
     What each block of the firmware does.
 
-- :lucide-hammer: **2. Build the image**
+- :lucide-hammer: **2. [Build the image](02-build-image.md)**
 
     Install ESPHome and compile.
 
@@ -91,3 +91,5 @@ Wiring is split into short steps under Wire and validate. The full pin map is on
 </div>
 
 The whole firmware is one file: [`firmware/lux.yaml`](https://github.com/jajera/esp32-c3-ha-lux/blob/main/firmware/lux.yaml).
+
+<!-- ci: pages retrigger -->
