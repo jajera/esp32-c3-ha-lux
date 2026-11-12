@@ -72,7 +72,7 @@ Wiring is split into short steps under Wire and validate. The full pin map is on
 
     What each block of the firmware does.
 
-- :lucide-hammer: **2. Build the image**
+- :lucide-hammer: **2. [Build the image](02-build-image.md)**
 
     Install ESPHome and compile.
 
